@@ -8,9 +8,10 @@ export const DATA = {
   location: "Rouen, France",
   locationLink: "https://www.google.com/maps/place/Rouen",
   description:
-    "Ingénieur Logiciel à la recherche de nouvelles opportunités. Passionné par le développement web et les technologies modernes, je suis toujours prêt à relever de nouveaux défis.",
+    "Curieux et passionné par les technologies modernes, je cherche à créer, apprendre et évoluer à travers de nouveaux projets web.",
   summary:
-    "Ingénieur Logiciel sortant de ses études, je souhaite continuer d’explorer le monde professionnel. J’ai 3 ans d’expérience Mainframe et Web, tout aussi compétent pour du front basé sur React.js, ou pour une création de microservice.Net. J’ai une bonne connaissance des bases de données relationnelles, et je suis à l’aise avec les méthodes agiles.",
+    "Ingénieur logiciel bientôt diplômé, je suis animé par une véritable **curiosité** pour les **nouvelles technologies** et un goût prononcé pour la **création**. Fort de **3 ans d’expérience** en environnement **Mainframe** et **Web**, je suis aussi à l’aise sur le développement front (**React.js**) que sur la conception de **microservices .NET**. J’apprécie particulièrement découvrir de nouveaux outils, expérimenter des stacks modernes, et construire des solutions utiles, en **équipe** ou en **autonomie**. Passionné par les **mangas**, la **musique**, l’**esport** et la **mode**, j’aime mêler **rigueur technique** et **sens créatif** dans mes projets — qu’ils soient professionnels ou personnels.",
+
   avatarUrl: "/me.jpeg",
   skills: [
     "React",
@@ -29,6 +30,7 @@ export const DATA = {
     "EntityFramework",
     "Figma",
     "CICD",
+    "Microservices",
   ],
   navbar: [{ href: "/", icon: HomeIcon, label: "Home" }],
   contact: {
