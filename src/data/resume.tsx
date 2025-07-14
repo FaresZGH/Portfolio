@@ -165,7 +165,7 @@ export const DATA = {
         "Docker Compose",
         "YARP Gateway",
       ],
-      image: "/Ranko.png",
+      image: "/ranko.png",
       video: "",
     },
   ],
